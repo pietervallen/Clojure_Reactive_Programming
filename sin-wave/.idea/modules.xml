@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Clojure_Reactive_Programming_Code/Clojure_Reactive_Programming_Code.iml" filepath="$PROJECT_DIR$/../Clojure_Reactive_Programming_Code/Clojure_Reactive_Programming_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/sin_wave.iml" filepath="$PROJECT_DIR$/sin_wave.iml" />
     </modules>
   </component>
